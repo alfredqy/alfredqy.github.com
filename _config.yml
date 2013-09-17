@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : @alfredqy
+title : alfredqy weblog
 tagline: From Zero To Awesome
 author :
   name : Alfred Q Yang
